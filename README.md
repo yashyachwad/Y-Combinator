@@ -8,8 +8,6 @@ The goal of this project is to practice **UI development, responsiveness, and co
 ## 🛠️ Tech Stack  
 - **React.js / Next.js** – for building components  
 - **Tailwind CSS** – for styling  
-- **ShadCN/UI** – for prebuilt UI components (if used)  
-- **TypeScript** (optional) – for type safety  
 
 ---
 
